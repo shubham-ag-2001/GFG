@@ -1,3 +1,3 @@
 # GFG
 
-id : shubhamagarwal23456@gmail.com
+profile : https://auth.geeksforgeeks.org/user/shubhamagarwal23456
